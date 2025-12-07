@@ -6,7 +6,9 @@ The Project takes a deep analysis of the sales generated focusing on the KPIs , 
 
 
 **THIS IS HOW I ARRIVED AT THE FIGURES ON THE DASHBOARD ABOVE USING POSTGRESQL**
+
 **#THE KEY PERFORMANCE INDICATORS **
+
 To arrive at this KPIs, I did the querying using PostgreSQL to act as my point of reference for accuracy nefore going ahead and working on the same in Power BI by creating measures to make visualization easy.
 The KPIs include:
 
@@ -14,9 +16,11 @@ The KPIs include:
 <img width="975" height="279" alt="image" src="https://github.com/user-attachments/assets/8913ca39-11d0-4a3c-8379-ce6377a13a98" />
 
 **INSIGHT  GENERATED**
+
 The total revenue generated for the year stood at $817,860. From the Analysis, the most vibrant days upon which majority of the sales hapen are betwwen Thursday and Saturday. This is showcased by the Daily trand bar chart, with Thursday showing 3239 sales, Friday showing 3538 sales, and Saturday showing 3158 sales. Additionally, the most vibrant times according to the Hourly trend are betwwen 12pm and 1pm and also between 5pm and 6pm.
 
 **RECOMMENDATION**
+
 Therefore, according to this insigths drawn, the business oughts to maximize the sales of these 3 days leading to the weekend, and also the most active times of the day to see maximum sales are made. However, we can introduce marketing and promotional activities for Sunday, Monday, and Tuesday since they show potential of breaching the 3000 sales mark.
   
 - Average Order Value
@@ -37,6 +41,7 @@ Therefore, according to this insigths drawn, the business oughts to maximize the
 I went ahead to visualize the various aspects of the sales data that allowed us to gain valuable insights and understanding of the key trends from it. These are the various identified requirements that in the end aided in the creation of the sales dashboard.
 
 1. Daily Trends for Total Orders
+   
 <img width="975" height="412" alt="image" src="https://github.com/user-attachments/assets/d6c8b5cd-d795-4938-bff5-ce092f2096d2" />
 
 INSIGHT - Thursday, Friday, and Saturday shows that they are days where we receive maximum orders.
@@ -46,25 +51,28 @@ RECOMMENDATION - This high sales start as we head towards the weekend. As a busi
 <img width="562" height="239" alt="image" src="https://github.com/user-attachments/assets/1b9fa859-8486-4aea-b51c-18fe04236601" />
 
 2. Hourly trend for Total Orders
+   
 <img width="975" height="245" alt="image" src="https://github.com/user-attachments/assets/62aff130-9084-45b1-b542-ac6fd55fa344" />
 
 INSIGHT - The visualization below shows that from 9am and 10am, as well as late in the night at 11pm are the times where we make the least sales. However, the peak times of the day that we make most of our sales are between 12pm and 1pm, and between 5pm and 6pm. Therefore, we note that this may be because it is during lunch hour where people take beaks to get their lunches and also after working hours where people are getting to unwind from their day of work.
-Therefore, we can maximis=ze these two durations, probably instituting more serving spots to ensure that we seerve the maximum numbers at this times. Additionally, we can introduce a new pizza package, say, the Kingly category at this hour, market it for this specific hours and price it a bit higher, sowcase why it is priced so high. This will encourage people to want totaste it, or, it will make people decide to go for the second most affordable pizza, which in the long run, it is still a win for the house where we witness revenue surges at this duration.
+Therefore, we can maximize these two durations, probably instituting more serving spots to ensure that we seerve the maximum numbers at this times. Additionally, we can introduce a new pizza package, say, the Kingly category at this hour, market it for this specific hours and price it a bit higher, sowcase why it is priced so high. This will encourage people to want totaste it, or, it will make people decide to go for the second most affordable pizza, which in the long run, it is still a win for the house where we witness revenue surges at this duration.
 
 <img width="644" height="238" alt="image" src="https://github.com/user-attachments/assets/39492166-2f74-4004-acd1-8e29c44eda37" />
 
 
 3. Percentage of sales by Pizza Category
+   
 <img width="975" height="264" alt="image" src="https://github.com/user-attachments/assets/4c63b6d7-0e47-47ca-9145-7aef21fdcc6d" />
 
 INSIGHT - The pie cart heps me to showcase the distribution of sales across various pizza categories.  It allowed me tp provide the insights necessary to determine the popularity of various pizza categories, and their ultimate contribution to the sales of the business. The CLASSIC category contributes the most revenue for our business.  The total pizzas sold has breached the 14000 sale mark, owever, it show potential for breaking the 15000 ceiling mark with some marketing. 
-Additionally, the CLASSIC category  generates the highest sales, standing aboe the rest with a 26.91% contribution.
+Additionally, the CLASSIC category  generates the highest sales, standing above the rest with a 26.91% contribution.
 
 <img width="439" height="191" alt="image" src="https://github.com/user-attachments/assets/8ff40966-8171-471a-9845-0c3595658c25" />
 
 
 
 4. Percentage of Sales by Pizza Size
+5. 
 <img width="975" height="419" alt="image" src="https://github.com/user-attachments/assets/aee82ca2-d9d5-44ec-b167-16e2ff4761a5" />
 
 INSIGHT - This pie chart represents the percentage of sales connected to the various pizza sizes that our business sells.  It showcases the customer preferences of the sizes we sell. The pie chart shows that the majority of our customers prefers the LARGE pizza size, showing that we sold a whooping 45.89%
