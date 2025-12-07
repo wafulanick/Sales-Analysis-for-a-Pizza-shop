@@ -93,7 +93,8 @@ Additionally, we can have the majority of our energy dierected from the CLASSIC 
 
 
 8. The Top 5 and Bottom 5 sellers by pizzas sold
-<img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/2fb915fb-23e4-4083-a639-3ab3e3d21050" />
+<img width="975" height="450" alt="image" src="https://github.com/user-attachments/assets/4b873832-23ce-4bec-892b-1560df7e41ed" />
+
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/05b6dd3d-765b-43cf-9c31-89e9601b6eb9" />
 
 
