@@ -94,7 +94,8 @@ Additionally, we can have the majority of our energy dierected from the CLASSIC 
 
 8. The Top 5 and Bottom 5 sellers by pizzas sold
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/2fb915fb-23e4-4083-a639-3ab3e3d21050" />
-<img width="847" height="195" alt="image" src="https://github.com/user-attachments/assets/9ea52fe9-943e-4000-a891-6b05dc1d9ae1" />
+<img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/05b6dd3d-765b-43cf-9c31-89e9601b6eb9" />
+
 
 INSIGHTS - Our best selling pizza name is the Classic, then the berbecue, while the least selling pizza is the Brie followed by the Mediterrenean pizza.
 <img width="847" height="195" alt="image" src="https://github.com/user-attachments/assets/5c1d9347-5bc0-4425-accb-ccd541140906" />
