@@ -9,7 +9,7 @@ The Project takes a deep analysis of the sales generated focusing on the KPIs , 
 
 **#THE KEY PERFORMANCE INDICATORS **
 
-To arrive at this KPIs, I did the querying using PostgreSQL to act as my point of reference for accuracy nefore going ahead and working on the same in Power BI by creating measures to make visualization easy.
+To arrive at this KPIs, I did the querying using PostgreSQL to act as my point of reference for accuracy before going ahead and working on the same in Power BI by creating measures to make visualization easy.
 The KPIs include:
 
 - Total Revenue
@@ -17,7 +17,7 @@ The KPIs include:
 
 **INSIGHT  GENERATED**
 
-The total revenue generated for the year stood at $817,860. From the Analysis, the most vibrant days upon which majority of the sales hapen are betwwen Thursday and Saturday. This is showcased by the Daily trand bar chart, with Thursday showing 3239 sales, Friday showing 3538 sales, and Saturday showing 3158 sales. Additionally, the most vibrant times according to the Hourly trend are betwwen 12pm and 1pm and also between 5pm and 6pm.
+The total revenue generated for the year stood at $817,860. From the Analysis, the most vibrant days upon which majority of the sales happen are between Thursday and Saturday. This is showcased by the Daily trand bar chart, with Thursday showing 3239 sales, Friday showing 3538 sales, and Saturday showing 3158 sales. Additionally, the most vibrant times according to the Hourly trend are betwwen 12pm and 1pm and also between 5pm and 6pm.
 
 **RECOMMENDATION**
 
@@ -38,13 +38,13 @@ Therefore, according to this insigths drawn, the business oughts to maximize the
 - Average Pizzas per Order.
 <img width="975" height="195" alt="image" src="https://github.com/user-attachments/assets/c361e9fb-a067-4538-a4db-245e1f216544" />
 
-I went ahead to visualize the various aspects of the sales data that allowed us to gain valuable insights and understanding of the key trends from it. These are the various identified requirements that in the end aided in the creation of the sales dashboard.
+I went ahead to visualize the various aspects of the sales data that allowed us to gain valuable insights and understanding of the key trends from it. These are the various identified requirements that in the end, aided in the creation of the sales dashboard.
 
 1. Daily Trends for Total Orders
    
 <img width="975" height="412" alt="image" src="https://github.com/user-attachments/assets/d6c8b5cd-d795-4938-bff5-ce092f2096d2" />
 
-INSIGHT - Thursday, Friday, and Saturday shows that they are days where we receive maximum orders.
+INSIGHT - Thursday, Friday, and Saturday shows that they are days where we received maximum orders.
 
 RECOMMENDATION - This high sales start as we head towards the weekend. As a business, we can recommend focusing on this days to ensure we get maximum orders, which will in the long-run, conribute towards growing our revenue.
 
